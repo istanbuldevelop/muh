@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "name": "Terazi - Dernek Muhasebe Programı",
-  "releaseNotes": "• İşletme gider ve Ek-16 güncellemesi yapıldı.",
+  "releaseNotes": "• İşletme defteri ve Ek-16 güncellemesi yapıldı.",
   "downloadUrl": "https://github.com/istanbuldevelop/muh/releases",
   "publishedAt": "2026-08-26"
 }
