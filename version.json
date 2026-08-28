@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "name": "Terazi - Dernek Muhasebe Programı",
-  "releaseNotes": "• İşletme defteri ve Ek-16 güncellemesi yapıldı.",
-  "downloadUrl": "https://github.com/istanbuldevelop/muh/releases",
-  "publishedAt": "2026-08-26"
+"version": "1.2.0",
+"name": "Terazi - Dernek Muhasebe Programı",
+"releaseNotes": "Fiş Girişi ve Kullanım Kolaylıkları:\n• Fiş girişlerinde hızlı kasa dengeleme özelliği eklendi. Shift+C veya Ctrl+C kısayolları ile 100.01 Kasa satırı otomatik olarak oluşturularak bir üst satırdaki açıklama aktarılır.\n• Shift ve Ctrl kombinasyonlu klavye kısayollarının kullanımı iyileştirildi ve tüm ilgili kısayollar daha tutarlı hale getirildi.\n• Uzun süreli veri girişlerinde oluşabilen odaklanma ve klavye ile yazı yazamama sorunları giderildi.\n\nFiş Kopyalama:\n• Kopyalanan fişler artık doğrudan veritabanına taslak olarak kaydediliyor.\n• Kopyalama işlemi sonrasında fişler, Taslak Fişler listesinde anında görüntülenebiliyor.\n\nHesap Planı ve Veri Güvenliği:\n• Hesap Planı listesine her hesap için anlık Borç, Alacak ve Bakiye bilgileri eklendi.\n• Bakiyeler, Borç (B) / Alacak (A) formatında daha anlaşılır şekilde gösteriliyor.\n• Hareket bulunan hesapların silinmesi engellendi. En az bir fiş hareketi bulunan hesaplar, veri bütünlüğünü korumak amacıyla artık silinemiyor.\n\nDefterler ve Usul Uyarıları:\n• İşletme Defteri ve Yevmiye Defteri, sol menü üzerinden doğrudan ve ayrı seçenekler olarak erişilebilir hale getirildi.\n• Her iki defter ekranına, resmi kullanım usullerine dikkat çeken bilgilendirme ve uyarı panoları eklendi.\n• İşletme Defterinde açılış fişleri; Devreden Kasa, Banka, Alacak ve Borç tutarları şeklinde konsolide olarak gösterilmeye başlandı.\n• Konsolide açılış tutarlarının üzerine gelindiğinde ilgili tutarın detayları görüntülenebiliyor.\n\nÇoklu Pencere Desteği:\n• Sol menüdeki ekranlar artık sağ tıklama veya farenin orta tuşu kullanılarak yeni ve bağımsız bir pencerede açılabiliyor.\n• Bu sayede birden fazla ekranın aynı anda açık tutulması ve karşılaştırmalı çalışılması kolaylaştırıldı.",
+"downloadUrl": "https://github.com/istanbuldevelop/muh/releases",
+"publishedAt": "2026-08-26"
 }
