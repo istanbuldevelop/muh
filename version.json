@@ -3,7 +3,7 @@
   "name": "Terazi - Dernek Muhasebe Programı",
   "releaseNotes": "Mahsup Fişi Hesap Düzeltmeleri:\n• Mahsup fişlerinde 121, 126 ve 336 hesapların borç ve alacak yönünde doğru şekilde çalışması sağlandı.\n• 126 hesabın mahsup fişinde borç tarafında çalışmaması sorunu giderildi.\n• 121, 126 ve 336 hesapların mahsup fişlerinde doğru şekilde kullanılabilmesi ve hesap hareketlerinin doğru hesaplanması sağlandı.\n\nDönem Yönetimi:\n• Dönem seçimi merkezi hale getirildi. Artık sol menü üzerinden dönem yılı seçilebiliyor.\n• Seçilen dönem, program içerisindeki tüm ilgili işlemlerde otomatik olarak kullanılıyor.\n• Geçmiş veya güncel dönem seçildiğinde yapılan işlemlerin seçilen döneme ait olması sağlandı.\n• Yeni oluşturulan fişler otomatik olarak aktif döneme bağlanıyor.\n• Her işlemde 2026 yılının varsayılan olarak gelmesi yerine, programda seçili olan dönem otomatik olarak kullanılıyor.",
   "publishedAt": "2026-08-29"
-},
+}, 
 {
 "version": "1.2.0",
 "name": "Terazi - Dernek Muhasebe Programı",
