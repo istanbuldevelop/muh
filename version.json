@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "name": "Terazi - Dernek Muhasebe Programı",
-  "releaseNotes": "Bazı iyileştirmeler.",
-  "publishedAt": "2026-08-29"
+  "releaseNotes": "Açıklama Düzenleme İyileştirmesi: Fiş satırlarında ve genel açıklamalarda metin düzenlerken imlecin kendiliğinden satır sonuna atlaması sorunu giderildi; metin arasına ve başına yazım akıcı hale getirildi.\n\nPerformans ve Kararlılık: Uzun süreli kullanımlarda ve pencereler arası geçişlerde meydana gelen ekran donması ve geçici yanıt vermeme sorunu tamamen çözüldü.\n\nYeni Fiş Kapatma Kısayolları: Fiş ekranında Alt+C / Shift+C ile Kasa, Alt+B / Shift+B ile Banka kapatma desteği getirildi (Ctrl kombinasyonları çakışmaları önlemek için kaldırıldı).\n\nKısayol Hesapları ve Şifre Yönetimi: Kısayolların kapatma yapacağı hesap kodlarının (Kasa, Banka ve Öncelikli Banka Alt Hesabı) Ayarlar ekranından serbestçe değiştirilebilmesi sağlandı.\n\nİşletme Defteri Raporu: Gelir ve gider yazdırma dökümlerinde dip toplam satırının her sayfada tekrarlanması engellendi; toplamın yalnızca son sayfada yer alması sağlandı.",
+  "publishedAt": "2026-09-09"
 }
