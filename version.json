@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "name": "Terazi - Dernek Muhasebe Programı",
-  "releaseNotes": "ESKİ SÜRÜM KULLANIYORSUNUZ, YENİ SÜRÜMÜ YÖNETİCİNİZDEN TALEP EDİNİZ!!\n\nYevmiye Defteri Tarih Güncellemesi: Yevmiye defterinde esas alınan tarih fiş tarihi yerine belge tarihi olarak güncellendi.\n\nMizan ve Muavin Stok Entegrasyonu: Mizan ve muavin sayfalarına stok bilgisi entegre edildi.",
+  "releaseNotes": "ESKİ SÜRÜM KULLANIYORSUNUZ, YENİ SÜRÜMÜ YÖNETİCİNİZDEN TALEP EDİNİZ!!\n\nİyileştirmeler yapıldı.",
   "publishedAt": "2026-09-13"
 }
