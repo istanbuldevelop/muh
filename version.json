@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "name": "Terazi - Dernek Muhasebe Programı",
-  "releaseNotes": "YENİ SÜRÜMÜ TALEP EDİNİZ!!\n\nÇeşitli iyileştirmeler ve düzeltmeler yapıldı. Veritabanı güvenlik güncellemesi yapıldı.",
-  "publishedAt": "2026-09-13"
+  "releaseNotes": "YENİ SÜRÜMÜ TALEP EDİNİZ!!\n\nYevmiye numaraları, fiş düzenlemedeki açıklama sütunları, muavin defterindeki stok hesaplamaları ve genel tasarım iyileştirmeleri ile alakalı güncelleme yapıldı.",
+  "publishedAt": "2026-09-23"
 }
