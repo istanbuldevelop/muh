@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "name": "Terazi - Dernek Muhasebe Programı",
   "forceUpdate": false,
   "zorunluGuncelleme": false,
-  "releaseNotes": "⚠️ ÖNEMLİ GÜNCELLEME! Bu sürüm mutlaka temin edilmelidir.\n\n Muavin defterinde dönem başı devreden bakiye satırı eklendi.\n Kritik sorunlar düzeltildi.\n Fiş düzenlemede bazı kolaylıklar getirildi.",
+  "releaseNotes": "⚠️ ÖNEMLİ GÜNCELLEME! Bu sürüm mutlaka temin edilmelidir.\n\n Defteri Kebir standartlara uygun hale getirildi.\n Ek-16'da mevzuata uygun güncelleme yapıldı.\n Defter kayıt detaylarında hesap adı sütunları eklendi.\n Hesap planında düzeltmeler yapıldı.\n Defterlerde zebra görünüm uygulandı.\n Yevmiye numarası verirken oluşan tarih kriteri sorunu giderildi.\n 600'lü hesaplardaki mükerrer belgeno kontrolleri eklendi.\n Çeşitli kullanım kolaylıkları getirildi.",
   "publishedAt": "2026-10-06"
 }
