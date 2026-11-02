@@ -4,5 +4,6 @@
   "forceUpdate": true,
   "zorunluGuncelleme": true,
   "releaseNotes": "⚠️ ÖNEMLİ GÜNCELLEME! Bu sürüm mutlaka temin edilmelidir.\n\n Program 10 kat daha hafif ve daha hızlı.\n Mevzuata uygun güncellemeler yapıldı.",
-  "publishedAt": "2026-10-06"
+  "publishedAt": "2026-10-06",
+  "downloadUrl": "https://raw.githubusercontent.com/istanbuldevelop/muh/refs/heads/main/Terazi-2.0.0.zip"
 }
