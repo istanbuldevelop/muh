@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "name": "Terazi - Dernek Muhasebe Programı",
-  "forceUpdate": true,
-  "zorunluGuncelleme": true,
-  "releaseNotes": "⚠️ ÖNEMLİ GÜNCELLEME! Bu sürüm mutlaka temin edilmelidir.\n\n Program 10 kat daha hafif ve daha hızlı.\n Mevzuata uygun güncellemeler yapıldı.",
+  "forceUpdate": false,
+  "zorunluGuncelleme": false,
+  "releaseNotes": "⚠️ ÖNEMLİ GÜNCELLEME! Bazı hatalar giderildi.",
   "publishedAt": "2026-10-06",
-  "downloadUrl": "https://raw.githubusercontent.com/istanbuldevelop/muh/refs/heads/main/Terazi-2.0.0.zip"
+  "downloadUrl": "https://raw.githubusercontent.com/istanbuldevelop/muh/refs/heads/main/Terazi-2.0.1.zip"
 }
